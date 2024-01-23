@@ -1,2 +1,4 @@
-# ERP with ML system for Production company
+# ERP with ML system for manufacturing company
+
+The system includes microservices
  
