@@ -1,5 +1,8 @@
 # analytical system for a cosmetics manufacturing plant
+
+
 step 1 designing an algorithm for demand forecasting
+
 step 2 designing an algorithm for calculating raw materials based on growth
 
 The system includes microservices
